@@ -1,6 +1,6 @@
-Name,Age,Math_Grade,English_Grade,Science_Grade,Social_Studies_Grade,,Interests
-Alice,16,A,B,B+,A-,Debate Club, Public Speaking
-Bob,17,B+,A,A-,B,Coding Club, Technology
-Charlie,18,B,B+,A,C+,Drama Club, Performing Arts
-David,15,A-,B,B+,B,Sports Team, Teamwork
-Emily,16,B,A-,A,B+,Volunteer Work, Medicine
+Name;Age;Math_Grade;English_Grade;Science_Grade;Social_Studies_Grade;Interests
+Alice;16;A;B;B+;A-;Debate Club, Public Speaking
+Bob;17;B+;A;A-;B;Coding Club, Technology
+Charlie;18;B;B+;A;C+;Drama Club, Performing Arts
+David;15;A-;B;B+;B;Sports Team, Teamwork
+Emily;16;B;A-;A;B+;Volunteer Work, Medicine
